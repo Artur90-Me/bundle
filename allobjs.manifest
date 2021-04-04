@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3347352436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69158f858bbcdd5186f6322130807be2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a3eba316372b2f69b09604b127ff833
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/newLocations/primer.prefab
+- Assets/Resources/newLocations/allObjsEnd.fbx
+Dependencies: []
